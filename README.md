@@ -1,13 +1,11 @@
-Test Test.
+#Welcome To My Page!
 
-What i'm Working on.
+This is stuff.
 
-Random Music
-
-Micasddsa's Additions Forge and Fabric (1.16.5)
-
-Altered Reality.
+Adding More Soon.
 
 And Other things...
-
+Links n shit.
+<a href="https://discord.gg/77x7WKKRPB">Discord.</a>
+<a href="http://scratch.mit.edu/users/micasddsa/">My Scratch.</a>
 Discord Micasddsa#7621
