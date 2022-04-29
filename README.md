@@ -1,15 +1,9 @@
 ## Welcome To My Page!
 
-This is stuff.
-
-Adding More Soon.
-
-And Other things...
+Here you can find some links to stuff + other things ig.
 
 Links n shit.
 
-<a href="https://discord.gg/77x7WKKRPB">Discord.</a>
+<a href="https://soundcloud.com/micasddsa">My Soundcloud.</a>
 
 <a href="http://scratch.mit.edu/users/micasddsa/">My Scratch.</a>
-
-Discord Micasddsa#7621
