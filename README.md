@@ -1,6 +1,5 @@
 ## Github Profile.
 
-Age 17
-Learning C++ and Rust.
+C++ Programmer with a little Java.
 
-I now know at least 25% of what I'm talking about.
+I now know at least 27% of what I'm talking about.
